@@ -1,0 +1,47 @@
+ticker,year,statement,item,issue
+SOKM.IS,2021,income,net_sales,missing value
+SOKM.IS,2021,income,cost_of_sales,missing value
+SOKM.IS,2021,income,gross_profit,missing value
+SOKM.IS,2021,income,operating_income,missing value
+SOKM.IS,2021,income,ebitda,missing value
+SOKM.IS,2021,income,interest_expense,missing value
+SOKM.IS,2021,income,net_income,missing value
+BIMAS.IS,2021,balance,total_assets,missing value
+BIMAS.IS,2021,balance,current_assets,missing value
+BIMAS.IS,2021,balance,inventory,missing value
+BIMAS.IS,2021,balance,cash,missing value
+BIMAS.IS,2021,balance,current_liabilities,missing value
+BIMAS.IS,2021,balance,total_liabilities,missing value
+BIMAS.IS,2021,balance,total_debt,missing value
+BIMAS.IS,2021,balance,lease_liabilities,missing value
+BIMAS.IS,2021,balance,equity,missing value
+MGROS.IS,2021,balance,total_assets,missing value
+MGROS.IS,2021,balance,current_assets,missing value
+MGROS.IS,2021,balance,inventory,missing value
+MGROS.IS,2021,balance,cash,missing value
+MGROS.IS,2021,balance,current_liabilities,missing value
+MGROS.IS,2021,balance,total_liabilities,missing value
+MGROS.IS,2021,balance,total_debt,missing value
+MGROS.IS,2021,balance,lease_liabilities,missing value
+MGROS.IS,2021,balance,equity,missing value
+SOKM.IS,2021,balance,total_assets,missing value
+SOKM.IS,2021,balance,current_assets,missing value
+SOKM.IS,2021,balance,inventory,missing value
+SOKM.IS,2021,balance,cash,missing value
+SOKM.IS,2021,balance,current_liabilities,missing value
+SOKM.IS,2021,balance,total_liabilities,missing value
+SOKM.IS,2021,balance,total_debt,missing value
+SOKM.IS,2021,balance,lease_liabilities,missing value
+SOKM.IS,2021,balance,equity,missing value
+BIMAS.IS,2021,cashflow,operating_cash_flow,missing value
+BIMAS.IS,2021,cashflow,capex,missing value
+MGROS.IS,2021,cashflow,operating_cash_flow,missing value
+MGROS.IS,2021,cashflow,capex,missing value
+SOKM.IS,2021,cashflow,operating_cash_flow,missing value
+SOKM.IS,2021,cashflow,capex,missing value
+BIMAS.IS,2023,all,growth,TMS 29 transition: growth vs prior year not comparable
+BIMAS.IS,2024,all,growth,TMS 29: check that prior-year figures are restated to the same purchasing power
+MGROS.IS,2023,all,growth,TMS 29 transition: growth vs prior year not comparable
+MGROS.IS,2024,all,growth,TMS 29: check that prior-year figures are restated to the same purchasing power
+SOKM.IS,2023,all,growth,TMS 29 transition: growth vs prior year not comparable
+SOKM.IS,2024,all,growth,TMS 29: check that prior-year figures are restated to the same purchasing power
